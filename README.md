@@ -1,4 +1,8 @@
 # eloquent-javascript
 Javascript Practice
 
-Readme-edits branch test.
+This repository contains solutions from the book: Eloquent Javascript.
+
+Merged: Readme-edits branch test.
+
+
